@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: cadetblue;
+}
+.main{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+
+}
+#box{
+    /* border: 2px solid red; */
+    width: 40%;
+    margin: 95px;
+    background-color: white;
+    border-radius: 8px;
+}
+#ques{
+    margin-left: 20px;
+    padding-top: 30px;
+}
+.opt{
+   padding-top: 40px;
+   padding-left: 20px;
+   font-weight: bold;
+   font-size: 20px;
+}
+.btn{
+    margin: 20px;
+    width: 36vw;
+    padding: 15px;
+    background-color: cadetblue;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
