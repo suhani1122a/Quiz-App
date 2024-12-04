@@ -1,3 +1,4 @@
+![Screenshot (35)](https://github.com/user-attachments/assets/6115e598-b2f1-4be5-ad51-b2316f936a74)
 This is a simple and interactive quiz application built using **HTML**, **CSS**, and **JavaScript**. The app allows users to answer multiple-choice questions, track their progress, and view their final score.
 
 ## How to Use
